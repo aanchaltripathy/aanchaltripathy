@@ -1,7 +1,7 @@
 ## Hey there! Nice to see you :smiley:
 
 ### Welcome to my page. I am a Software Developer  
-####I use react-native to develop cross-platform mobile applications (android and iOS)
+#### I use react-native to develop cross-platform mobile applications (android and iOS)
 #### I am a passionate fullstack developer with a strong emphasis on frontend development. I specialize in *ReactJS, React Native, Java, SpringBoot and its framework*.  
 
 Work In Progress: :construction_worker: :construction:
